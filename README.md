@@ -1,5 +1,5 @@
-# Low-Power-Design-UPF
-# UPF Power State Table for Multi-Domain Design
+# Low-Power-Design-UPF(Unified Power Format)
+## UPF Power State Table for Multi-Domain Design
 
 This README documents the **Unified Power Format (UPF)** setup for a design with three power domains:
 
