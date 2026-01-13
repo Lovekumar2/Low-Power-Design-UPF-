@@ -1,5 +1,4 @@
-# Low-Power-Design-UPF-
-**
+# Low-Power-Design-UPF
 # UPF Power State Table for Multi-Domain Design
 
 This README documents the **Unified Power Format (UPF)** setup for a design with three power domains:
@@ -12,7 +11,7 @@ All domains share a common ground (`VSS`).
 
 ***
 
-## ✅ Power Domains and States
+## Power Domains and States
 
 | Domain      | Supply | Voltage |
 | ----------- | ------ | ------- |
@@ -31,7 +30,7 @@ All domains share a common ground (`VSS`).
 
 ***
 
-## ✅ UPF Commands
+## UPF Commands
 
 ```tcl
 # =========================================================
